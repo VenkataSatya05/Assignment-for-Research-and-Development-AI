@@ -317,6 +317,37 @@ This project follows:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## References
+
+### Optimization Algorithms
+- Storn, R., & Price, K. (1997). "Differential Evolution – A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces". *Journal of Global Optimization*, 11(4), 341-359.
+- Powell, M. J. D. (1964). "An efficient method for finding the minimum of a function of several variables without calculating derivatives". *The Computer Journal*, 7(2), 155-162.
+
+### Curve Fitting & Parameter Estimation
+- Nocedal, J., & Wright, S. J. (2006). *Numerical Optimization* (2nd ed.). Springer.
+- Press, W. H., Teukolsky, S. A., Vetterling, W. T., & Flannery, B. P. (2007). *Numerical Recipes: The Art of Scientific Computing* (3rd ed.). Cambridge University Press.
+
+### Loss Functions & Error Metrics
+- Willmott, C. J., & Matsuura, K. (2005). "Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance". *Climate Research*, 30(1), 79-82.
+
+### Python Libraries
+- Virtanen, P., et al. (2020). "SciPy 1.0: Fundamental algorithms for scientific computing in Python". *Nature Methods*, 17(3), 261-272. [SciPy Documentation](https://docs.scipy.org/)
+- Harris, C. R., et al. (2020). "Array programming with NumPy". *Nature*, 585(7825), 357-362. [NumPy Documentation](https://numpy.org/)
+- Hunter, J. D. (2007). "Matplotlib: A 2D graphics environment". *Computing in Science & Engineering*, 9(3), 90-95. [Matplotlib Documentation](https://matplotlib.org/)
+
+### API Framework
+- Ramírez, S. (2018). *FastAPI Framework*. [FastAPI Documentation](https://fastapi.tiangolo.com/)
+
+### Additional Resources
+- [Desmos Graphing Calculator](https://www.desmos.com/) - Interactive mathematical visualization
+- [SciPy Optimization Tutorial](https://docs.scipy.org/doc/scipy/tutorial/optimize.html)
+- [Differential Evolution Documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html)
+
+---
+
+## Acknowledgments
+
+Special thanks to the open-source community and contributors of NumPy, SciPy, and Matplotlib for providing robust scientific computing tools that made this project possible.
 
 ## Contact
 

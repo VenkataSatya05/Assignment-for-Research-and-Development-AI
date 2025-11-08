@@ -217,11 +217,11 @@ After running the analysis:
 - `results/final_params.json` - Optimized parameter values
 - `results/final_curve_equation.txt` - LaTeX-formatted equation
 - `examples/overlay_plot.png` - Main fitting visualization
- <img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/fede7b1c-29e4-4b2b-bf08-d66625d64c02" />
+- <img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/fede7b1c-29e4-4b2b-bf08-d66625d64c02" />
 - `examples/error_distribution.png` - Error histogram
- <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/d135efb2-b66d-458e-98e2-1fa3579a328f" />
+- <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/d135efb2-b66d-458e-98e2-1fa3579a328f" />
 - `examples/error_heatmap.png` - Spatial error distribution
- <img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/b42ca2fb-c1b8-4543-ac95-6c231a4bba51" />
+- <img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/b42ca2fb-c1b8-4543-ac95-6c231a4bba51" />
 - `examples/observed_vs_predicted_x.png` - X-coordinate correlation
 - `examples/observed_vs_predicted_y.png` - Y-coordinate correlation
 

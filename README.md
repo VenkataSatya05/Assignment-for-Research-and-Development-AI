@@ -225,7 +225,7 @@ After running the analysis:
 - `examples/observed_vs_predicted_x.png` - X-coordinate correlation
 - `examples/observed_vs_predicted_y.png` - Y-coordinate correlation
 - Desmos Output:
-- 
+- Desmos Visualization link: [@Flam_AI](https://github.com/VenkataSatya05)
   
 
 ## Repository Structure

@@ -49,7 +49,7 @@ $$
 **Model Components:**
 - **Linear terms**: `t·cos(θ)` and `t·sin(θ)` create the base trajectory
 - **Oscillatory component**: `sin(0.3t)` adds periodic variations
-- **Exponential modulation**: `e^(M \cdot |t|)` controls oscillation amplitude
+- **Exponential modulation**: `e^(M |t|)` controls oscillation amplitude
 - **Translation**: X shifts horizontally, 42 shifts vertically
 
 ## Features

@@ -24,7 +24,6 @@ Where:
 ├── README.md
 ├── environment.yml
 ├── .gitignore
-├── LICENSE
 ├── data/
 │   └── xy_data.csv
 ├── notebooks/
@@ -51,9 +50,7 @@ Where:
 │   ├── final_params.json
 │   └── final_curve_equation.txt
 ├── main.py
-├── deploy/
-├── CHANGELOG.md
-└── README_RELEASE.md
+
 ```
 
 ## Installation

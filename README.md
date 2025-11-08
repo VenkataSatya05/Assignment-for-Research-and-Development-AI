@@ -221,7 +221,6 @@ After running the analysis:
 - `examples/error_heatmap.png` - Spatial error distribution
 - <img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/b42ca2fb-c1b8-4543-ac95-6c231a4bba51" />
 - `examples/observed_vs_predicted_x.png` - X-coordinate correlation
-- 
 - `examples/observed_vs_predicted_y.png` - Y-coordinate correlation
 
 ## Repository Structure

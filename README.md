@@ -228,8 +228,6 @@ ai-curve-fitting/
 ├── environment.yml                # Conda environment specification
 ├── requirements.txt               # Pip dependencies
 ├── .gitignore                     # Git ignore patterns
-├── LICENSE                        # MIT License
-├── CHANGELOG.md                   # Version history
 │
 ├── data/
 │   └── xy_data.csv               # Input trajectory data (1501 points)
@@ -261,7 +259,6 @@ ai-curve-fitting/
 │   └── COMPREHENSIVE_REPORT.md   # Detailed technical documentation
 │
 ├── main.py                       # Main execution script
-├── notebooks/                    # Jupyter notebooks (optional)
 └── deploy/                       # Deployment configurations
 ```
 

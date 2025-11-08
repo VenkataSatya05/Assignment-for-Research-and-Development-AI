@@ -34,8 +34,13 @@ This project implements an AI-driven approach to fit a parametric mathematical m
 The parametric equations define the curve as:
 
 ```
-x(t) = t·cos(θ) - e^(M·|t|)·sin(0.3t)·sin(θ) + X
-y(t) = 42 + t·sin(θ) + e^(M·|t|)·sin(0.3t)·cos(θ)
+$$
+x(t) = t \cdot \cos(\theta) - e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \sin(\theta) + X
+$$
+
+$$
+y(t) = 42 + t \cdot \sin(\theta) + e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \cos(\theta)
+$$
 ```
 
 **Parameters:**

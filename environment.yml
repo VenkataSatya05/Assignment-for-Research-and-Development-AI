@@ -1,0 +1,20 @@
+name: rde_ai_curve_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - jupyterlab
+  - fastapi
+  - uvicorn
+  - pydantic
+  - pip
+  - pip:
+    - pytest

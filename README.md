@@ -33,12 +33,12 @@ This project implements an AI-driven approach to fit a parametric mathematical m
 
 The parametric equations define the curve as:
 
-```
+
 $$
 x(t) = t \cdot \cos\theta - e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \sin\theta + X \qquad
 y(t) = 42 + t \cdot \sin\theta + e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \cos\theta
 $$
-```
+
 
 **Parameters:**
 - **θ** (theta): Angle parameter, range [0°, 50°]

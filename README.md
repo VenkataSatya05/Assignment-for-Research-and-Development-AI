@@ -311,15 +311,12 @@ This project follows:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-**Project Maintainer**: Your Name
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: Alajangi Venkata Satya
+- Email: satyavenkata46@gmail.com
+- GitHub: [@VenkataSatya05](https://github.com/VenkataSatya05)
 
 **Issues & Support**: Please use the [GitHub Issues](https://github.com/yourusername/ai-curve-fitting/issues) page for bug reports and feature requests.
 

@@ -226,7 +226,7 @@ After running the analysis:
 - `examples/observed_vs_predicted_y.png` - Y-coordinate correlation
 - Desmos Output:
 - <img width="800" height="800" alt="desmos-graph" src="https://github.com/user-attachments/assets/8e72060d-5683-4446-bc0e-02c4f8d5ac88" />
-- Desmos Visualization link: [@Flam_AI_Desmos](https://www.desmos.com/calculator/hzyqo90we5](https://www.desmos.com/calculator/up3rcac1ft)
+- Desmos Visualization link: [@Flam_AI_Desmos](https://www.desmos.com/calculator/up3rcac1ft)
   
 
 ## Repository Structure

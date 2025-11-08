@@ -215,7 +215,7 @@ After running the analysis:
 - `results/final_params.json` - Optimized parameter values
 - `results/final_curve_equation.txt` - LaTeX-formatted equation
 - `examples/overlay_plot.png` - Main fitting visualization
-- <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/378598a1-49aa-4513-ab7a-d846ba5271e5" />
+- <img width="2000" height="1200" alt="image" src="https://github.com/user-attachments/assets/fede7b1c-29e4-4b2b-bf08-d66625d64c02" />
 - `examples/error_distribution.png` - Error histogram
 - <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/d135efb2-b66d-458e-98e2-1fa3579a328f" />
 - `examples/error_heatmap.png` - Spatial error distribution

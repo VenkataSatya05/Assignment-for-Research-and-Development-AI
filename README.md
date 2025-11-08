@@ -35,7 +35,7 @@ The parametric equations define the curve as:
 
 
 $$
-x(t) = t \cdot \cos\theta - e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \sin\theta + X \qquad
+x(t) = t \cdot \cos\theta - e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \sin\theta + X \qquad,
 y(t) = 42 + t \cdot \sin\theta + e^{M \cdot |t|} \cdot \sin(0.3t) \cdot \cos\theta
 $$
 
@@ -49,7 +49,7 @@ $$
 **Model Components:**
 - **Linear terms**: `t·cos(θ)` and `t·sin(θ)` create the base trajectory
 - **Oscillatory component**: `sin(0.3t)` adds periodic variations
-- **Exponential modulation**: `e^(M|t|)` controls oscillation amplitude
+- **Exponential modulation**: `e^(M \cdot |t|)` controls oscillation amplitude
 - **Translation**: X shifts horizontally, 42 shifts vertically
 
 ## Features

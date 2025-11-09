@@ -16,7 +16,8 @@
 - [Repository Structure](#repository-structure)
 - [Documentation](#documentation)
 - [Development](#development)
-- [License](#license)
+- [References](#References)
+- [Acknowledgments](#Acknowledgments)
 - [Contact](#contact)
 
 ## Overview
